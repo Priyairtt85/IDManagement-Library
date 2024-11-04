@@ -142,6 +142,11 @@ Printing all the IDs in the library
 Enter the option: e --------> exit from the application
 Exiting from the application
 ~/IDManagement-Library$ 
+
+Clarification:
+------------
+
+The final compiled binary files - idMgmt and unittest_idMgmt (application and unittest code) are uploaded as .txt file in github and cant able to modify it, please execute the makefile again using make command to get the proper binary file during verification.
   
 
 
