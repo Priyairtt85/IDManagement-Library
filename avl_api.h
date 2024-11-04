@@ -1,3 +1,5 @@
+#ifndef __AVLAPI_H__
+#define _AVLAPI_H__
 #include<stdio.h>
 #include<stdlib.h>
 #include <unistd.h>
@@ -15,6 +17,7 @@ struct Node
 };
 
 
+    
 // A utility function to get maximum of two integers
 extern int max(int a, int b);
 
